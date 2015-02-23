@@ -1,0 +1,4 @@
+.error { display:none; padding:5px; color:#D8000C; font-size:12px; background-color:#FFBABA; border:solid 1px #e06d6d; }
+.success { display:none; padding:5px; color:#044406; font-size:12px; background-color:#B7FBB9; border:solid 1px #65d668; }
+#contact_logo { vertical-align:middle; }
+.error img { vertical-align:top; }
