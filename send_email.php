@@ -3,7 +3,7 @@
 	$autoResponse = true; //if set to true auto response email will be sent, if you don't want autoresponse set it to false
 	$autoResponseSubject = "Welcome"; 
 	$autoResponseMessage = "Hi, thank you for contact us.You will be getting reply soon.Stay with us.";
-	$autoResponseHeaders = "From: riyad.rir@gmail.com";  
+	$autoResponseHeaders = "From: riyad.rir@gmail.com";  // Replace your Email Address
 	
     //we need to get our variables first
     $email_to =   'support@codextree.com'; //the address to which the email will be sent
